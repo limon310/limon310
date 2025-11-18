@@ -1,16 +1,116 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Limon Islam</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
-<!--
-**limon310/limon310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me  
+- 🚀 I’m a passionate Frontend Developer focused on building clean, modern web applications  
+- 🌱 Currently learning **React**, **TypeScript**, and advanced UI/UX concepts  
+- 💬 Ask me about **JavaScript**, **React**, **Frontend Development**, **UI Design**  
+- 📫 Email: mdlimonislam134@gmail.com  
+- ⚡ Fun fact: I love solving problems and creating beautiful user experiences  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies  
+
+### **🚀 Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+---
+
+### ** JavaScript Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-83CD29?logo=node.js&logoColor=fff)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
+
+---
+
+### **🎨 CSS Frameworks & Libraries**
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-2965F1?logo=css3&logoColor=fff)
+
+---
+
+### **🗄️ Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+---
+
+### **☁️ Deployment Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
+
+---
+
+### **🎨 Design & Graphics Tools**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)
+
+---
+
+### **🛠️ Tools & Technologies**
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdlimonislam&theme=tokyonight" />
+</p>
+
+
+---
+
+## 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](YOUR_LINKEDIN_LINK)  
+[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](YOUR_FACEBOOK_LINK](https://www.facebook.com/mdlimon.islam.1422409))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](YOUR_PORTFOLIO_LINK)
+
+---
+
+## 📌 Featured Projects
+> *(Pin your best projects on GitHub for a professional look)*
+
+---
+
+## 🟢 GitHub Contributions
+
+### 📅 Yearly Contribution Activity
+<p align="center">
+  <img src="https://ghchart.rshah.org/limon310" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=limon310&theme=tokyonight" />
+</p>
+
+---
+
+### 📊 Total Contributions Summary
+- 🟢 **Commits:** Your daily code updates  
+- 🔧 **Pull Requests:** Your proposed changes to repos  
+- 🐞 **Issues:** Bug reports & feature requests  
+- 📂 **Repositories Contributed To:** Projects where you helped  
+- ⭐ **Repositories Created:** Your own projects  
+
+ 
+
+
+
