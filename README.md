@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Md Limon Islam</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
@@ -9,6 +14,13 @@
 - 💬 Ask me about **JavaScript**, **React**, **Frontend Development**, **UI Design**  
 - 📫 Email: mdlimonislam134@gmail.com  
 - ⚡ Fun fact: I love solving problems and creating beautiful user experiences  
+
+---
+
+## 🌐 Connect With Me  
+[![GigHub](https://img.shields.io/badge/GitHub-0A66C2?logo=github&logoColor=fff)](https://github.com/limon310)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/mdlimon.islam.1422409)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](YOUR_PORTFOLIO_LINK)
 
 ---
 
@@ -72,13 +84,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdlimonislam&theme=tokyonight" />
 </p>
 
-
----
-
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](YOUR_LINKEDIN_LINK)  
-[![Facebook]([https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](YOUR_FACEBOOK_LINK](https://www.facebook.com/mdlimon.islam.1422409))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](YOUR_PORTFOLIO_LINK)
 
 ---
 
