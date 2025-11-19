@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Banner" />
+  <img src="https://i.postimg.cc/k4TqDwnK/Md-Limon-Islam.png" alt="Banner" />
 </p>
 
 
@@ -84,12 +84,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdlimonislam&theme=tokyonight" />
 </p>
 
-
----
-
-## 📌 Featured Projects
-> *(Pin your best projects on GitHub for a professional look)*
-
 ---
 
 ## 🟢 GitHub Contributions
@@ -109,11 +103,12 @@
 ---
 
 ### 📊 Total Contributions Summary
-- 🟢 **Commits:** Your daily code updates  
-- 🔧 **Pull Requests:** Your proposed changes to repos  
-- 🐞 **Issues:** Bug reports & feature requests  
-- 📂 **Repositories Contributed To:** Projects where you helped  
-- ⭐ **Repositories Created:** Your own projects  
+- 🟢 **Commits:** My daily learning progress  
+- 🔧 **Pull Requests:** Small contributions I’ve made  
+- 🐞 **Issues:** Reporting and discussing improvements  
+- 📂 **Repos Contributed To:** Projects where I shared ideas  
+- ⭐ **Repos Created:** My personal coding projects  
+  
 
  
 
