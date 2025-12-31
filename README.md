@@ -29,31 +29,26 @@ I enjoy working with **React**, improving UI/UX, and continuously learning new t
 ## 🛠️ Skills & Technologies  
 
 ### 🎨 Frontend
-JavaScript • React • CSS3 • Responsive Design • UI/UX
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
 
 ### 🧠 Backend
-Node.js • Express.js • MongoDB • Firebase
+![Node.js](https://img.shields.io/badge/Node.js-83CD29?logo=node.js&logoColor=fff) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
 
 ### 🧰 Tools & Platforms
-Git • GitHub • VS Code • Postman • Figma • Vercel • Windows
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) 
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)
 
----
-
-## 🚀 Featured Projects  
-
-### 🔹 LessonVerse  
-A modern learning platform with authentication and responsive UI.  
-**Tech:** React, Firebase, Tailwind CSS  
-🔗 Live: https://lessonsverse.web.app/ 
-🔗 Repo: FrontEnd: https://github.com/limon310/lessonsVerse-client 
-  BackEnd: https://github.com/limon310/lessonsVerse-server
-
-### 🔹 Pay Bill Management System  
-A full-stack web application for managing utility bills efficiently.  
-**Tech:** MERN Stack  
-🔗 Live: https://easy-bill-9d276.web.app/ 
-🔗 Repo: Client Side: https://github.com/limon310/easy-bill-client
-    Server Side: https://github.com/limon310/easy-bill-server
 
 ---
 
