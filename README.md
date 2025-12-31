@@ -85,15 +85,6 @@
 
 ---
 
-## 🟢 GitHub Contributions
-
-### 📅 Yearly Contribution Activity
-<p align="center">
-  <img src="https://ghchart.rshah.org/limon310" alt="GitHub Contribution Chart" />
-</p>
-
----
-
 ### 🔥 Contribution Streak
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=limon310&theme=tokyonight" />
