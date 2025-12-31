@@ -2,52 +2,62 @@
   <img src="https://i.postimg.cc/k4TqDwnK/Md-Limon-Islam.png" alt="Banner" />
 </p>
 
-
-<h1 align="center">Hi 👋, I'm Md Limon Islam</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h1 align="center">Md Limon Islam</h1>
+<h3 align="center">MERN Stack Developer | React Specialist | UI-Driven Web Apps</h3>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 I’m a passionate Frontend Developer focused on building clean, modern web applications  
-- 🌱 Currently learning **React**, **TypeScript**, and advanced UI/UX concepts  
-- 💬 Ask me about **JavaScript**, **React**, **Frontend Development**, **UI Design**  
-- 📫 Email: mdlimonislam134@gmail.com  
-- ⚡ Fun fact: I love solving problems and creating beautiful user experiences  
+Frontend Developer with a strong interest in building **modern, responsive, and user-centric web applications**.  
+I enjoy working with **React**, improving UI/UX, and continuously learning new technologies to deliver clean and scalable solutions.
+
+- 🚀 Focused on React-based frontend development  
+- 🌱 Currently learning **Next js** and advanced **React patterns**  
+- 💬 Comfortable with **JavaScript, React, REST APIs, Responsive Design**  
+- 📫 Email: **mdlimonislam134@gmail.com**  
+- ⚡ Passionate about clean code and great user experience  
 
 ---
 
 ## 🌐 Connect With Me  
-[![GigHub](https://img.shields.io/badge/GitHub-0A66C2?logo=github&logoColor=fff)](https://github.com/limon310)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/mdlimon.islam.1422409)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](YOUR_PORTFOLIO_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/limon310)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/limon-dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/mdlimon.islam.1422409)
 
 ---
 
 ## 🛠️ Skills & Technologies  
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/Node.js-83CD29?logo=node.js&logoColor=fff)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+### 🎨 Frontend
+JavaScript • React • CSS3 • Responsive Design • UI/UX
 
+### 🧠 Backend
+Node.js • Express.js • MongoDB • Firebase
+
+### 🧰 Tools & Platforms
+Git • GitHub • VS Code • Postman • Figma • Vercel • Windows
 
 ---
 
-## 📊 GitHub Stats:
+## 🚀 Featured Projects  
+
+### 🔹 LessonVerse  
+A modern learning platform with authentication and responsive UI.  
+**Tech:** React, Firebase, Tailwind CSS  
+🔗 Live: https://lessonsverse.web.app/ 
+🔗 Repo: FrontEnd: https://github.com/limon310/lessonsVerse-client 
+  BackEnd: https://github.com/limon310/lessonsVerse-server
+
+### 🔹 Pay Bill Management System  
+A full-stack web application for managing utility bills efficiently.  
+**Tech:** MERN Stack  
+🔗 Live: https://easy-bill-9d276.web.app/ 
+🔗 Repo: Client Side: https://github.com/limon310/easy-bill-client
+    Server Side: https://github.com/limon310/easy-bill-server
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&theme=tokyonight" />
@@ -60,22 +70,4 @@
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=limon310&theme=tokyonight" />
-</p>
-
----
-
-### 📊 Total Contributions Summary
-- 🟢 **Commits:** My daily learning progress  
-- 🔧 **Pull Requests:** Small contributions I’ve made  
-- 🐞 **Issues:** Reporting and discussing improvements  
-- 📂 **Repos Contributed To:** Projects where I shared ideas  
-- ⭐ **Repos Created:** My personal coding projects  
-  
-
- 
-
-
-
+⭐ *Open to internships, junior frontend roles, and freelance opportunities*
