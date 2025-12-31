@@ -26,49 +26,24 @@
 
 ## 🛠️ Skills & Technologies  
 
-### **🚀 Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-
----
-
-### ** JavaScript Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
 ![Node.js](https://img.shields.io/badge/Node.js-83CD29?logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
-
----
-
-### **🎨 CSS Frameworks & Libraries**
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
-![CSS](https://img.shields.io/badge/CSS-2965F1?logo=css3&logoColor=fff)
-
----
-
-### **🗄️ Database**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
-
----
-
-### **☁️ Deployment Platforms**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)
-
----
-
-### **🎨 Design & Graphics Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)
-
----
-
-### **🛠️ Tools & Technologies**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+
 
 ---
 
