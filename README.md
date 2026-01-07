@@ -39,8 +39,11 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limon310&theme=tokyonight" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limon310&theme=tokyonight" />
 </p>
 
 ---
