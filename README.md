@@ -29,22 +29,26 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 
 ### 🛠️ Skills & Technologies
 
-| Category | Tools |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) &nbsp; ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) &nbsp; ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) &nbsp; ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) &nbsp; ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) &nbsp; ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) &nbsp; ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
 
 ### 📊 GitHub Overview
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limon310&theme=tokyonight" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=limon310&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -52,8 +56,8 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **LessonVerse** | `React`, `Node`, `MongoDB` | [🌐 Live](https://lessonsverse.web.app/) |
-| **EasyBill** | `React`, `Express`, `Firebase` | [🌐 Live](https://easy-bill-9d276.web.app/) |
+| **LessonVerse** | `React`, `Node`, `MongoDB`, `JWT`, `Firebase`, `Tailwind CSS`, `Framer Motion` | [🌐 Live](https://lessonsverse.web.app/) |
+| **EasyBill** | `React`, `Express`, `Firebase`, `MongoDb`, `Daisy UI`, `Firebase` | [🌐 Live](https://easy-bill-9d276.web.app/) |
 
 ---
 
