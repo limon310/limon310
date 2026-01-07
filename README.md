@@ -52,18 +52,19 @@ I enjoy working with **React**, improving UI/UX, and continuously learning new t
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&hide=stars,prs&count_private=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&langs_count=6&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=limon310&theme=tokyonight" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=limon310&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ *Open to internships, junior frontend roles, and freelance opportunities*
+⭐ Open to internships, junior frontend roles, and freelance opportunities
+
 
