@@ -41,12 +41,12 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&theme=tokyonight" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=limon310&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://streak-stats.demolab.com/?user=limon310&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" />
 </p>
 
 ---
@@ -54,8 +54,6 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 <p align="center">
   🌟 <i>Open to internships, junior frontend roles, and freelance opportunities</i>
 </p>
-
----
 
 ---
 
