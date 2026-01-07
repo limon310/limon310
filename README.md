@@ -54,3 +54,22 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 <p align="center">
   🌟 <i>Open to internships, junior frontend roles, and freelance opportunities</i>
 </p>
+
+---
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name | Tech Stack | Links |
+| :--- | :--- | :--- |
+| **LessonVerse** | `React`, `Node.js`, `MongoDB, Express Js, Tailwind CSS, JWT, Firebase` | [🌐 Live](https://lessonsverse.web.app/) / [💻 Repo](https://github.com/limon310/lessonsVerse-client) |
+| **Project Two Name** | `React` `Express Js`, `Tailwind CSS`, `Firebase`, `MongoDB`, `REST APIS` | [🌐 Live](https://your-live-link.com) / [💻 Repo](https://github.com/limon310/easy-bill-client) |
+| **Green Earth** | `JavaScript`, `Daisy Ui`, `tailwind css` | [🌐 Live](https://green-earth-e3g.pages.dev/) / [💻 Repo](https://github.com/limon310/green-earth) |
+
+---
+
+### 📈 My GitHub Contribution Graph
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=limon310&theme=tokyonight&hide_border=true&area=true" />
+</p>
