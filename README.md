@@ -1,4 +1,4 @@
-<p align="center">
+<img width="892" height="247" alt="image" src="https://github.com/user-attachments/assets/7606db8b-c1e6-4467-9c43-078da6ae1fca" /><p align="center">
   <img src="https://i.postimg.cc/nznJrfyr/1.png" alt="Banner" />
 </p>
 
@@ -60,9 +60,10 @@ I enjoy working with **React**, improving UI/UX, and continuously learning new t
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=limon310&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=limon310&theme=tokyonight" />
 </p>
 
 ---
 
 ⭐ *Open to internships, junior frontend roles, and freelance opportunities*
+
