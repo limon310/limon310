@@ -22,8 +22,9 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/limon-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="limon-dev" /></a>
-<a href="https://www.facebook.com/mdlimon.islam.1422409" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="mdlimon.islam" /></a>
+<a href="https://www.linkedin.com/in/limon-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/mdlimon.islam.1422409" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://github.com/limon310" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -41,18 +42,12 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=limon310&theme=tokyonight&area=true&hide_border=true" />
-</p>
-
-<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=limon310&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limon310&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limon310&theme=tokyonight" />
 </p>
 
----
-
 <p align="center">
-  🌟 <i>Open to internships, junior frontend roles, and freelance opportunities</i>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=limon310&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
@@ -61,13 +56,12 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
-| **LessonVerse** | `React`, `Node.js`, `MongoDB, Express Js, Tailwind CSS, JWT, Firebase` | [🌐 Live](https://lessonsverse.web.app/) / [💻 Repo](https://github.com/limon310/lessonsVerse-client) |
-| **EasyBill** | `React` `Express Js`, `Tailwind CSS`, `Firebase`, `MongoDB`, `REST APIS` | [🌐 Live](https://easy-bill-9d276.web.app/) / [💻 Repo](https://github.com/limon310/easy-bill-client) |
-| **Green Earth** | `JavaScript`, `Daisy Ui`, `tailwind css` | [🌐 Live](https://green-earth-e3g.pages.dev/) / [💻 Repo](https://github.com/limon310/green-earth) |
+| **LessonVerse** | `React`, `Node`, `MongoDB`, `JWT` | [🌐 Live](https://lessonsverse.web.app/) / [💻 Repo](https://github.com/limon310/lessonsVerse-client) |
+| **EasyBill** | `React`, `Express`, `Firebase`, `MongoDB` | [🌐 Live](https://easy-bill-9d276.web.app/) / [💻 Repo](https://github.com/limon310/easy-bill-client) |
+| **Green Earth** | `JavaScript`, `Tailwind`, `Daisy UI` | [🌐 Live](https://green-earth-e3g.pages.dev/) / [💻 Repo](https://github.com/limon310/green-earth) |
 
 ---
 
-### 📈 My GitHub Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=limon310&theme=tokyonight&hide_border=true&area=true" />
+  🌟 <i>Open to internships, junior frontend roles, and freelance opportunities</i>
 </p>
