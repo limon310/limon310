@@ -66,6 +66,3 @@ I enjoy working with **React**, improving UI/UX, and continuously learning new t
 ---
 
 ⭐ Open to internships, junior frontend roles, and freelance opportunities
-
-
-why not solving this issue
