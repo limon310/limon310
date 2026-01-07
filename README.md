@@ -64,7 +64,7 @@ Frontend Developer with a strong interest in building **modern, responsive, and 
 | Project Name | Tech Stack | Links |
 | :--- | :--- | :--- |
 | **LessonVerse** | `React`, `Node.js`, `MongoDB, Express Js, Tailwind CSS, JWT, Firebase` | [🌐 Live](https://lessonsverse.web.app/) / [💻 Repo](https://github.com/limon310/lessonsVerse-client) |
-| **Project Two Name** | `React` `Express Js`, `Tailwind CSS`, `Firebase`, `MongoDB`, `REST APIS` | [🌐 Live](https://your-live-link.com) / [💻 Repo](https://github.com/limon310/easy-bill-client) |
+| **EasyBill** | `React` `Express Js`, `Tailwind CSS`, `Firebase`, `MongoDB`, `REST APIS` | [🌐 Live](https://easy-bill-9d276.web.app/) / [💻 Repo](https://github.com/limon310/easy-bill-client) |
 | **Green Earth** | `JavaScript`, `Daisy Ui`, `tailwind css` | [🌐 Live](https://green-earth-e3g.pages.dev/) / [💻 Repo](https://github.com/limon310/green-earth) |
 
 ---
